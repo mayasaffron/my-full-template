@@ -1,4 +1,4 @@
-<img class="read-me-pic" src="img/maya.jpg" style="margin: 0;" >
+<img src="img/maya.jpg" style="margin: 0;" >
 
 ## This is my first website
 
