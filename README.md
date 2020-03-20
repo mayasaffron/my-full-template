@@ -1,6 +1,4 @@
-<style="margin: 0;" >
-
-![](img/maya.jpg)
+<style="margin: 0;"![](img/maya.jpg)>
 
 ## This is my first website
 
